@@ -1,0 +1,14 @@
+{
+  "name": "windows93",
+  "version": "1.0.0",
+  "description": "A Windows 93 Desktop App with PhantomDoom741's custom scripts",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Samyocord",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "electron": "^3.0.9"
+  }
+}
