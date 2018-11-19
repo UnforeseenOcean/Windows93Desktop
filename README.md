@@ -5,3 +5,5 @@ A Windows 93 Desktop App written in ElectronJS with Custom Scripts from PhantomD
 https://github.com/PhantomDoom741
 
 Join PhantomDoom's Discord: https://discord.gg/9mgPRY3
+
+# Download the release [here](https://github.com/Samyocord/Windows93Desktop/releases).
