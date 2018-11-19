@@ -1,6 +1,8 @@
 # Windows93Desktop
 A Windows 93 Desktop App written in ElectronJS with Custom Scripts from PhantomDoom741
-![Downloads](https://img.shields.io/packagist/Samyocord/Windows93Desktop/orm.svg?style=for-the-badge)
+
+[![Packagist](https://img.shields.io/packagist/dt/doctrine/orm.svg?style=for-the-badge)](https://github.com/Samyocord/Windows93Desktop)
+
 
 
 
